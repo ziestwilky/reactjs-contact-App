@@ -5,7 +5,7 @@ i Build an Address Book Using Reactjs and sementic UI
 
 Feel free to use code
 
-firstly run "NPM Install " to install all the packages
+firstly run "npm Install " to install all the packages
 
 to start the application "npm start";
 http://localhost:3000
